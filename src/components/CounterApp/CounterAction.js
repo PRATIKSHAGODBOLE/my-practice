@@ -1,3 +1,7 @@
+//FolderName : CounterApp = ContexAPI
+//CounterType.js | CounterAction.js | CounterReducer.js | CounterContainer
+//Store.js and rootReducerCombine.js
+
 import { DECREMENT, INCREMENT } from "./CounterType"
 
 export const inc_Counter = () =>{
